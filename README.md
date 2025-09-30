@@ -31,7 +31,6 @@ As a Data Analyst for a global health organization, I created a series of Tablea
    - Added country filters for easy comparison across charts.  
 
 ---
-
 ## 🚀 Skills Demonstrated  
 - **Data Cleaning & Transformation:** Handling raw datasets in Excel and Tableau.  
 - **Exploratory Data Analysis (EDA):** Identifying key patterns and insights.  
@@ -42,8 +41,7 @@ As a Data Analyst for a global health organization, I created a series of Tablea
 - Tableau (filters, calculated fields, dashboard design)  
 
 ---
-
-- <img width="2484" height="1046" alt="image" src="https://github.com/user-attachments/assets/2aaaaeb3-9dca-45f0-9872-9dd4937e1a5b" />
+<img width="2484" height="1046" alt="image" src="https://github.com/user-attachments/assets/29953988-3208-42fe-942b-3445b5146574" />
 
 
 

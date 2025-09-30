@@ -49,5 +49,6 @@ As a Data Analyst for a global health organization, I created a series of Tablea
 - <img width="2484" height="1046" alt="image" src="https://github.com/user-attachments/assets/2aaaaeb3-9dca-45f0-9872-9dd4937e1a5b" />
 
 
+
 - 
 - `Global_Health_Dashboard.twbx` – Tableau workbook with all visualizations and dashboard.  

@@ -38,13 +38,10 @@ As a Data Analyst for a global health organization, I created a series of Tablea
 - **Visualization & Storytelling:** Creating impactful dashboards and charts.  
 - **Analytical Thinking:** Translating data into actionable insights for decision-making.  
 - **Tool Proficiency:**  
-  - Excel (advanced formulas, pivot tables, charts, dashboards)  
-  - Tableau (filters, calculated fields, dashboard design)  
+- Excel (advanced formulas, pivot tables, charts, dashboards)
+- Tableau (filters, calculated fields, dashboard design)  
 
 ---
-
-## 📂 Project Files  
-- `Sales_Analysis.xlsx` – Interactive Excel dashboard and analysis.
 
 - <img width="2484" height="1046" alt="image" src="https://github.com/user-attachments/assets/2aaaaeb3-9dca-45f0-9872-9dd4937e1a5b" />
 
